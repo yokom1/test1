@@ -1,0 +1,17 @@
+ typical processes in a cloud operating model for Azure Migrate Suite:
+
+    Discovery and Assessment Process: This process involves discovering the on-premises workloads and assessing their suitability for migration to Azure. The Azure Migrate Server Assessment tool can be used to discover and assess the on-premises workloads, identifying dependencies and potential issues.
+
+    Migration Process: This process involves migrating the on-premises workloads to Azure. The Azure Migrate Server Migration tool can be used to migrate the virtual machines to Azure, with minimal downtime and data loss.
+
+    Database Migration Process: This process involves migrating the on-premises databases to Azure. The Azure Database Migration Service can be used to migrate the databases to Azure, with minimal downtime and data loss.
+
+    Web Application Migration Process: This process involves migrating the on-premises web applications to Azure. The Azure App Service Migration Assistant tool can be used to migrate the web applications to Azure, with minimal downtime and data loss.
+
+    Security and Compliance Process: This process involves ensuring that the Azure infrastructure and applications meet the organization's security and compliance requirements. Azure Security Center and Azure Compliance Manager can be used to monitor and enforce the security and compliance policies.
+
+    Performance Optimization Process: This process involves optimizing the Azure infrastructure and applications for performance and cost efficiency. Azure Advisor and Azure Cost Management can be used to identify optimization opportunities and implement best practices.
+
+    Change Management Process: This process involves managing changes to the Azure infrastructure and applications, ensuring that they are properly tested and approved before deployment. Azure DevOps can be used to manage the change requests and automate the deployment process.
+
+    Incident Management Process: This process involves identifying and resolving incidents in the Azure infrastructure and applications, minimizing the impact on the business. Azure Monitor can be used to detect and diagnose the incidents, while Azure Service Health can provide real-time alerts and notifications.

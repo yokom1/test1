@@ -1,0 +1,18 @@
+ typical roles and costs for a cloud team within a cloud operating model for Azure Migrate Suite:
+
+Roles:
+
+    Cloud Architect: responsible for designing the cloud infrastructure, selecting the right Azure services, and ensuring that the infrastructure meets the business and technical requirements.
+    Cloud Engineer: responsible for deploying and configuring Azure resources, including virtual machines, storage accounts, networking, and security.
+    Cloud Developer: responsible for developing and deploying cloud-native applications on Azure, using services like Azure App Service, Azure Functions, and Azure Kubernetes Service.
+    Cloud Administrator: responsible for managing and monitoring the Azure resources, ensuring high availability and performance, and troubleshooting issues.
+    Cloud Data Engineer: responsible for migrating the on-premises databases to Azure using Azure Database Migration Service, optimizing the database performance, and implementing disaster recovery solutions.
+
+Costs:
+
+    Salaries and benefits for cloud team members
+    Training and certification costs to keep the cloud team's skills up to date
+    Tools and software licenses for cloud operations, such as Azure Migrate Suite, Azure DevOps, and monitoring tools like Azure Monitor.
+    Cloud infrastructure costs, including compute, storage, networking, and security services.
+    Third-party consulting and professional services costs, if required.
+

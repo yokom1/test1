@@ -1,0 +1,30 @@
+an overview of the people, tools, processes, and way of working for a cloud operating model using Azure Migrate, Azure Cloud Catalog, Azure DevOps, Azure Cloud Toolkit, and Azure Power BI for a financial organization:
+
+People:
+
+    Cloud Operations Manager: responsible for overseeing the cloud operations team and ensuring that the cloud environment is running smoothly and efficiently.
+    Cloud Engineers: responsible for designing, implementing, and maintaining the cloud infrastructure and applications.
+    Cloud Operations Analysts: responsible for monitoring and analyzing cloud performance, identifying areas for improvement, and making recommendations to the Cloud Operations Manager and Cloud Engineers.
+    Cloud Support Engineers: responsible for providing technical support and troubleshooting issues related to the cloud environment.
+    Cloud Security Specialists: responsible for ensuring the security of the cloud environment and compliance with regulatory requirements.
+
+Tools:
+
+    Azure Migrate: used for assessing and migrating on-premises workloads to Azure.
+    Azure Cloud Catalog: used for managing and organizing cloud resources and services.
+    Azure DevOps: used for managing the application development lifecycle, including planning, coding, testing, and deployment.
+    Azure Cloud Toolkit: used for automating common cloud management tasks, such as backup and recovery, scaling, and monitoring.
+    Azure Power BI: used for visualizing and analyzing data from various sources, including the cloud environment.
+
+Processes:
+
+    Cloud Governance: Establishing policies, procedures, and guidelines for cloud usage, including access management, data privacy, and security.
+    Cloud Migration: Conducting assessments of on-premises workloads, developing a migration plan, and executing the migration.
+    Cloud Operations Management: Ensuring the smooth and efficient operation of the cloud environment, including monitoring and optimization of cloud resources and services.
+    Cloud Security Management: Implementing and managing security controls to protect the cloud environment and data.
+
+Way of working:
+
+    Agile: Using agile methodologies for software development and project management, with regular sprints, stand-up meetings, and retrospectives.
+    DevOps: Emphasizing collaboration and communication between development and operations teams to improve the efficiency and quality of application development and deployment.
+    Continuous Improvement: Continuously reviewing and improving cloud processes, procedures, and tooling to optimize cloud performance and reduce costs.

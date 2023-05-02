@@ -1,0 +1,29 @@
+Here is an example of the people, tools, processes, and way of working for a cloud operating model using Azure Migrate, Azure Cloud Catalog, Azure DevOps, Azure Cloud Toolkit, and Azure Power BI for a financial organization:
+
+    People:
+
+    Cloud Operations Engineer: responsible for managing the Azure infrastructure, including configuring Azure Migrate, maintaining the Azure Cloud Catalog, and optimizing the performance of the Azure environment.
+    Cloud Solutions Architect: responsible for designing and implementing cloud solutions using Azure services and tools, including Azure DevOps and the Azure Cloud Toolkit.
+    Data Analyst: responsible for creating and managing data visualizations and dashboards in Azure Power BI.
+
+    Tools:
+
+    Azure Migrate: used to assess and migrate applications and data to Azure.
+    Azure Cloud Catalog: used to manage and catalog Azure resources.
+    Azure DevOps: used for continuous integration and delivery of cloud applications and services.
+    Azure Cloud Toolkit: used for monitoring and optimizing the performance of the Azure environment.
+    Azure Power BI: used for creating and managing data visualizations and dashboards.
+
+    Processes:
+
+    Application Assessment and Migration: using Azure Migrate, applications and data are assessed for migration to Azure.
+    Resource Management: using the Azure Cloud Catalog, Azure resources are managed and cataloged for easy access and maintenance.
+    Continuous Integration and Delivery: using Azure DevOps, cloud applications and services are built, tested, and deployed in a continuous integration and delivery process.
+    Performance Monitoring and Optimization: using the Azure Cloud Toolkit, the performance of the Azure environment is monitored and optimized for efficiency and cost-effectiveness.
+    Data Visualization and Analytics: using Azure Power BI, data visualizations and dashboards are created and managed to provide insights and analytics for business decision-making.
+
+    Way of working:
+
+    Agile development methodology: the team follows an agile development methodology, with sprints of 2-3 weeks to deliver new features and enhancements.
+    Collaboration: the team collaborates closely with business stakeholders to ensure that the cloud solutions meet their requirements and expectations.
+    Continuous improvement: the team is committed to continuous improvement of the cloud environment, with regular reviews and optimizations to ensure efficiency and cost-effectiveness.

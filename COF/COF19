@@ -1,0 +1,13 @@
+The way of working for a cloud operating model refers to the processes, methodologies, and practices that are used to manage and operate a cloud environment. This includes how teams collaborate, how work is prioritized and managed, how changes are implemented, how issues are resolved, and how the cloud environment is optimized and improved over time.
+
+There are several common methodologies and practices that are often used in cloud operating models, including:
+
+    Agile: An iterative approach to software development that emphasizes collaboration, flexibility, and responsiveness to change.
+
+    DevOps: A set of practices that emphasizes collaboration and communication between development and operations teams, with the goal of improving the speed and quality of application development and deployment.
+
+    Continuous Integration and Continuous Delivery (CI/CD): A set of practices that automate the process of building, testing, and deploying applications, with the goal of delivering new features and functionality more quickly and reliably.
+
+    Infrastructure as Code (IaC): A practice of managing infrastructure using code, which allows for greater automation, consistency, and scalability in cloud environments.
+
+    IT Service Management (ITSM): A set of processes and practices for managing IT services, including incident management, change management, and service level management.

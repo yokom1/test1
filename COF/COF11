@@ -1,0 +1,28 @@
+ here is an example of a team and the allocation of each role for a cloud operating model:
+
+    Cloud Governance Team:
+
+    Cloud Governance Manager: responsible for overseeing the cloud governance program, including defining policies, procedures, and guidelines for cloud usage, as well as managing compliance and risk.
+    Cloud Compliance Analyst: responsible for ensuring that the cloud environment complies with regulatory requirements and organizational policies.
+    Cloud Risk Analyst: responsible for identifying and mitigating risks associated with cloud usage.
+
+    Cloud Architecture Team:
+
+    Cloud Solutions Architect: responsible for designing the cloud infrastructure and services, as well as guiding the development teams in building cloud-native applications.
+    Cloud Security Architect: responsible for ensuring that the cloud architecture is secure and compliant with regulatory requirements and organizational policies.
+
+    Cloud Operations Team:
+
+    Cloud Operations Manager: responsible for managing the day-to-day operations of the cloud environment, including monitoring and performance tuning, security, and compliance.
+    Cloud Operations Engineer: responsible for implementing and maintaining the cloud infrastructure and services, as well as supporting the development teams in deploying and operating cloud-native applications.
+    Cloud DevOps Engineer: responsible for automating the deployment and operations of cloud-native applications using DevOps practices and tools.
+
+    Cloud Data Team:
+
+    Cloud Data Architect: responsible for designing the data architecture for the cloud environment, including data storage, processing, and analytics.
+    Cloud Data Engineer: responsible for implementing and maintaining the data infrastructure and services, as well as supporting the development teams in building data-driven applications.
+
+    Cloud Support Team:
+
+    Cloud Support Manager: responsible for managing the cloud support program, including incident and problem management, as well as customer satisfaction.
+    Cloud Support Engineer: responsible for providing technical support to end-users, as well as troubleshooting and resolving incidents related to the cloud environment.

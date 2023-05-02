@@ -1,0 +1,17 @@
+operating model for Azure Migrate suite:
+
+    Business and IT Objectives: The business objective is to migrate on-premises workloads to Azure cloud to reduce costs, improve scalability, and increase availability. The IT objective is to modernize the infrastructure and applications to improve agility.
+
+    Cloud Strategy: The company decides to use Azure Migrate suite to discover and assess the on-premises workloads, migrate them to Azure, and optimize the workloads for cost and performance.
+
+    Cloud Governance and Policies: The company establishes policies and procedures to govern the use of Azure resources, including security, compliance, and risk management. They implement security controls like network segmentation, data encryption, and access control. They also ensure compliance with regulatory requirements like GDPR and HIPAA.
+
+    Cloud Team: The company builds a cloud operations team consisting of cloud architects, engineers, developers, and administrators. They also establish a Cloud Center of Excellence (CCoE) to provide guidance and best practices for the organization's cloud operations.
+
+    Cloud Processes: The company develops processes for discovering, assessing, migrating, and optimizing the on-premises workloads using Azure Migrate suite. They use Azure Migrate tools like Server Assessment, Server Migration, Database Migration, and Web App Migration. They also implement processes for incident management, change management, and problem management.
+
+    Cloud Automation: The company implements automation tools and processes to streamline the Azure migration operations and reduce manual effort. They use tools like PowerShell, Azure CLI, and Azure Automation to automate the deployment of resources and migration tasks.
+
+    Cloud Optimization: The company monitors the Azure infrastructure to identify performance issues and optimize the resources for cost efficiency. They use tools like Azure Advisor and Azure Cost Management to identify cost savings opportunities and optimize their resource utilization.
+
+    Continuous Improvement: The company regularly reviews and updates their Azure Migrate operating model to ensure it remains aligned with their business objectives and IT strategy. They also continuously evaluate new Azure technologies and services to improve their Azure migration operations.
